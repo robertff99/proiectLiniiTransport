@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liniiTransport>
+  <Linie>
+    <NumarLinie>37</NumarLinie>
+    <StatieInitiala>horia</StatieInitiala>
+  </Linie>
+  <Linie>
+    <NumarLinie>124</NumarLinie>
+    <StatieInitiala>acolo</StatieInitiala>
+  </Linie>
+  <Linie>
+    <NumarLinie>26</NumarLinie>
+    <StatieInitiala>asdf</StatieInitiala>
+  </Linie>
+  <Linie>
+    <NumarLinie>71</NumarLinie>
+    <StatieInitiala>stefan</StatieInitiala>
+  </Linie>
+</liniiTransport>

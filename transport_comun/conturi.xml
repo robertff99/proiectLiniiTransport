@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Conturi>
+  <Cont>
+    <Username>admin</Username>
+    <Parola>admin</Parola>
+    <Rol>Admin</Rol>
+  </Cont>
+  <Cont>
+    <Username>angajat</Username>
+    <Parola>angajat</Parola>
+    <Rol>Angajat</Rol>
+  </Cont>
+  <Cont>
+    <Username>a</Username>
+    <Parola>a</Parola>
+    <Rol>Angajat</Rol>
+  </Cont>
+</Conturi>
